@@ -1,7 +1,7 @@
 ## [EN] Project: Transaction Categorizers
 
 **Objective:**  
-Understand customer behavior more deeply through transaction data. By using techniques from NLP and LLM, classify transaction texts, such as bank statements, to analyze purchasing patterns.
+Understand customer behavior more deeply through transaction data. By using techniques from NLP and LLM, classify transaction texts, such as bank transactions, to analyze purchasing patterns.
 
 **My Role:**  
 As Tech Lead, I coordinated the technical team in developing the technical aspects of the project and actively participated in building the solution. I led the development of a transaction categorization system using advanced NLP techniques.
