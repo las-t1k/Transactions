@@ -13,6 +13,7 @@ As Tech Lead, I coordinated the technical team in developing the technical aspec
 - LLM libraries (Transformers, LangChain, Sentence Transformers)
 - Regex
 - Other NLP tools available in the market
+- Databricks
 
 **Results Achieached:**  
 The pilot phase of the project already yielded an expected result of 10 million BRL because, through behavior analysis, we were able to make offers much more contextualized to the customers. However, there is a huge potential to reach an expected result of 90 million BRL in two years.
@@ -36,6 +37,7 @@ Como Tech Lead, coordenei tecnicamente a equipe no desenvolvimento dos aspectos 
 - Bibliotecas LLM (Transformers, LangChain, Sentence Transformers)
 - Regex
 - Outras ferramentas de PNL disponíveis no mercado
+- Databricks
 
 **Resultados Alcançados:**  
 A fase piloto do projeto já rendeu um resultado esperado de R$10MM porque, através da análise de comportamento, pudemos fazer ofertas muito mais contextualizadas aos clientes. Existe um enorme potencial para alcançar um resultado esperado de 90MM em dois anos.
